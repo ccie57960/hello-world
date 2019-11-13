@@ -5,4 +5,4 @@
   git commit
 3.1) anyone can see the previous commit (step 2) and see the info.
 4) Use "bfg" to remove de file from git (rewrite history)
-  bfg --delete-files [file]
+  java -jar bfg.jar --delete-files [file]
