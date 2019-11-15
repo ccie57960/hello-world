@@ -6,3 +6,6 @@
 3.1) anyone can see the previous commit (step 2) and see the info.
 4) Use "bfg" to remove de file from git (rewrite history)
   java -jar bfg.jar --delete-files [file]
+
+#Test "git grep" or "git log" to find the next line witch will be delete or modify in the next commit
+bgp
