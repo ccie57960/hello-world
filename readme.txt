@@ -8,4 +8,4 @@
   java -jar bfg.jar --delete-files [file]
 
 #Test "git grep" or "git log" to find the next line witch will be delete or modify in the next commit
-bgp
+ospf
